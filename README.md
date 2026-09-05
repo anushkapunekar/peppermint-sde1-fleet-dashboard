@@ -31,3 +31,10 @@ The dashboard supports:
 cd frontend
 npm install
 npm run dev
+## Live Demo
+
+[Open the deployed Fleet Management Dashboard](peppermint-sde1-fleet-dashboard.vercel.app)
+
+## Live Demo
+
+[Open the deployed Fleet Management Dashboard](https://peppermint-sde1-fleet-dashboard.vercel.app)
