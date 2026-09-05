@@ -31,10 +31,11 @@ The dashboard supports:
 cd frontend
 npm install
 npm run dev
-## Live Demo
-
-[Open the deployed Fleet Management Dashboard](peppermint-sde1-fleet-dashboard.vercel.app)
 
 ## Live Demo
 
 [Open the deployed Fleet Management Dashboard](https://peppermint-sde1-fleet-dashboard.vercel.app)
+
+## AI Delegation Notes
+
+AI tooling was used as a development assistant for guidance, suggestions, and documentation support during the challenge. I used AI to discuss implementation approaches, troubleshoot issues, and review decisions while building the solution. The implementation, debugging, testing, integration, and final verification were performed by me.
